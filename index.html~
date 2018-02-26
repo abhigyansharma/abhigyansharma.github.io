@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Abhigyan Sharma, AT&amp;T Labs Research</title>
+    <meta name="keywords" content="Abhigyan Sharma, AT&amp;T Labs, UMass Amherst, Cloud Computing, CDN, ISP Traffic Engineering">
+  </head>
+  <body>
+    <h1>Abhigyan Sharma</h1>
+    <h2>Senior Inventive Scientist, AT&amp;T Labs Research</h2>
+    <h3>E-mail: [my first name]@research.att.com</h3>
+    <p>I am a researcher at <a href="http://www.research.att.com">AT&amp;T Labs
+        Research</a> in the <a href="http://about.att.com/innovation/labs/cloudqos">CloudQos</a>
+      research group. I completed my PhD in <a href="https://www.cs.umass.edu/">Computer
+        Science at UMass Amherst</a>&nbsp; <a href="https://www.cics.umass.edu/speakers/abhigyan/2015/jul/28">in
+        2015</a> under the fantastic supervision of <a href="http://people.cs.umass.edu/%7Earun/">Arun
+        Venkataramani</a> and <a href="http://people.cs.umass.edu/%7Eramesh/">Ramesh
+        Sitaraman</a>. I am currently working on cloud computing research
+      related to <a href="http://www.att.com/Common/about_us/pdf/AT&amp;T%20Domain%202.0%20Vision%20White%20Paper.pdf">Network
+        Functions Virtualization</a>.</p>
+    <p><a href="file:///Users/abhigyan/Desktop/public_html/CV.pdf">CV [May 2017]</a></p>
+    <p><a href="http://dblp.uni-trier.de/pers/hd/s/Sharma:Abhigyan">DBLP</a>
+      &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=PotHafQAAAAJ"><br>
+      </a></p>
+    <p><a href="https://scholar.google.com/citations?user=PotHafQAAAAJ">Google
+        Scholar</a></p>
+    <p><a href="file:///Users/abhigyan/Desktop/public_html/papers/thesis.pdf">Phd
+        Thesis</a>. <i>Content Placement as a Key to a Content-Dominated,
+        Highly Mobile Internet</i>. <strong>UMASS CS Outstanding PhD
+        Dissertation Award 2016.&nbsp;</strong></p>
+    <p>Job application materials from 2015:&nbsp; <a href="app/cv.pdf">CV</a>
+      &nbsp;&nbsp;&nbsp;&nbsp; <a href="app/rs.pdf">Research statement</a>
+      &nbsp;&nbsp;&nbsp;&nbsp; <a href="app/teaching.pdf">Teaching statement</a>
+    </p>
+    <h2>Papers</h2>
+    <p>Wei Zhang, Abhigyan Sharma, Kaustubh Joshi, Timothy Wood. <br>
+      <b>Towards an OS for the Network Data Plane.&nbsp;</b> <br>
+      <i>SOSR 2017 Poster.</i>&nbsp; <a href="papers/fastpaas.pdf">Paper</a></p>
+    <li>
+      <p>Abhigyan Sharma, Xiaozheng Tie, Hardeep Uppal, Arun Venkataramani,
+        David Westbrook, Aditya Yadav. <br>
+        <b>A Global Name Service For A Highly Mobile Internet.</b> <br>
+        <i>SIGCOMM 2014.</i> <a href="papers/auspice.pdf">Paper</a> <a href="slides/auspice.pptx"
+          class="btn btn-success btn-xs">Slides</a></p>
+    </li>
+    <li>
+      <p>Abhigyan Sharma, Arun Venkataramani, Antonio A. A. Rocha. <br>
+        <b>Pros and Cons of Model-Based Bandwidth Control for Client-assisted
+          Content Delivery.</b> <br>
+        <i>COMSNETS 2014.</i> <a href="papers/swarmserver.pdf">Paper</a> </p>
+    </li>
+    <li>
+      <p>Abhigyan Sharma, Arun Venkataramani, Ramesh Sitaraman. <br>
+        <b>Distributing Content Simplifies ISP Traffic Engineering.</b> <br>
+        <i>SIGMETRICS 2013.</i> <a href="papers/ncdn.pdf">Paper</a> <a href="slides/ncdn.pptx"
+          class="btn btn-success btn-xs">Slides</a></p>
+    </li>
+    <li>
+      <p>Arun Venkataramani, Abhigyan Sharma, Xiaozheng Tie, David Westbrook,
+        Hardeep Uppal and Jim Kurose, Dipankar Raychaudhuri. <br>
+        <b>Design Guidelines for a Global Name Service for a Mobility-Centric,
+          Trustworthy Internetwork.</b> <br>
+        <i>COMSNETS 2013 (Invited paper).</i> <a href="papers/auspice-comsnets.pdf">Paper</a></p>
+    </li>
+    <li>
+      <p>Abhigyan Sharma, Aditya Mishra, Vikas Kumar, Arun Venkataramani. <br>
+        <b>Beyond MLU: An Application Centric Comparison of Traffic Engineering
+          Schemes.</b> <br>
+        <i>INFOCOM 2011.</i> <a href="papers/beyond-mlu.pdf">Paper</a> <a href="slides/beyond-mlu.pptx"
+          class="btn btn-success btn-xs">Slides</a></p>
+    </li>
+    <li>
+      <p>Abhigyan, Joydeep Chandra, Niloy Ganguly. <br>
+        <b>A Bandwidth-aware Topology Generation Mechanism for Peer-to-Peer
+          based Publish-Subscribe Systems.</b> <br>
+        <i>ICIIS 2008.</i> <a href="http://dx.doi.org/10.1109/ICIINFS.2008.4798446">Paper</a></p>
+    </li>
+    <li><br>
+    </li>
+    <li>
+      <h2>Teaching</h2>
+    </li>
+    <li style="margin-left: 40px;">Spring 2017, Communication Networks 2,
+      Electrical and Computer Engineering, <strong>Rutgers University</strong>.
+      <a href="http://www.winlab.rutgers.edu/comnet2/">Webpage</a></li>
+    <li><br>
+    </li>
+    <li>
+      <h2>Program Committee</h2>
+    </li>
+    <li style="margin-left: 40px;"><a href="http://lanman2017.ieee-lanman.org/">IEEE
+        LANMAN 2017</a></li>
+    <li style="margin-left: 40px;"><a href="https://www.cse.iitb.ac.in/%7Eapsys2017/">ACM
+        APSys 2017</a></li>
+    <li><br>
+    </li>
+       <h2>Interns</h2>
+  <ul>
+    <li>Wei Zhang, George Washington University in 2016</li>
+    <li>Zhaoyu Gao, UMass Amherst in 2017</li>
+    <li>Bo Yan, New York University in 2017</li>
+  </ul>
+
+    Last updated: June 28 2017.
+  </body>
+</html>
